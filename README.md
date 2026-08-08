@@ -1,5 +1,4 @@
 # Static-and-Default-Routing-Implementation
-# Static-and-Default-Routing-Implementation
 
 Overview: A multi-router enterprise network simulation built in Cisco Packet Tracer to implement & test both Static & Default Routing across different subnets.
 
